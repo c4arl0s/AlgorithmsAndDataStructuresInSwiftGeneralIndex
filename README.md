@@ -6,6 +6,10 @@
 
 # [2. The Big-O Notation](https://github.com/c4arl0s/2TheBig-O_NotationAADSSwift#2-the-big-o-notation)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124481431-e2bad180-dd6d-11eb-88fb-e67610f3b072.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124481570-08e07180-dd6e-11eb-9098-3ec2aa180ed2.png" width="250"> |
+
 1. [x] [1. Constant Time Complexity](https://github.com/c4arl0s/2TheBig-O_NotationAADSSwift#-constant-time-complexity)
     - [x] [BenchTimer](https://github.com/c4arl0s/2TheBig-O_NotationAADSSwift#benchtimer)
 2. [x] [2. Linear Time Complexity](https://github.com/c4arl0s/2TheBig-O_NotationAADSSwift#-linear-time-complexity)
@@ -16,12 +20,20 @@
 
 # [3. Recursion AADS Swift](https://github.com/c4arl0s/3RecursionAADSSwift#3-recursion-aads-swift)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124481891-6379cd80-dd6e-11eb-8e4e-e689591f70fc.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124482066-873d1380-dd6e-11eb-8aa5-48de90cf9ede.png" width="250"> |
+
 1. [x] [1. What is recursion?](https://github.com/c4arl0s/3RecursionAADSSwift#-what-is-recursion)
 2. [x] [2. How Does Recursion Work?](https://github.com/c4arl0s/3RecursionAADSSwift#-how-does-recursion-work)
 3. [x] [3. Recursion Pitfalls](https://github.com/c4arl0s/3RecursionAADSSwift#-recursion-pitfalls)
 4. [x] [4. How to Avoid Infinite Recursion](https://github.com/c4arl0s/3RecursionAADSSwift#-how-to-avoid-infinite-recursion)
 
 # [4. The Power Of Algorithms](https://github.com/c4arl0s/4ThePowerOfAlgorithmsAADSSwift#4-the-power-of-algorithms-aads-swift)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124488073-0c2b2b80-dd75-11eb-8688-1e7c5c422062.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124488263-45fc3200-dd75-11eb-8c07-4ba97cd65529.png" width="250"> |
 
 1. [x] [1. Calculate Sum(n)](https://github.com/c4arl0s/4ThePowerOfAlgorithmsAADSSwift#-calculate-sumn)
 2. [x] [2. Pair Matching Challenge](https://github.com/c4arl0s/4ThePowerOfAlgorithmsAADSSwift#-pair-matching-challenge)
@@ -30,11 +42,19 @@
 
 # [5. Generics](https://github.com/c4arl0s/5GenericsAADSSwift#5-generics)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124488573-a12e2480-dd75-11eb-819c-7e1d0110b54d.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124488680-bacf6c00-dd75-11eb-80e3-86ea3200579b.png" width="250"> |
+
 1. [x] [1. Why Generics?](https://github.com/c4arl0s/5GenericsAADSSwift#1-why-generics)
 2. [x] [2. Generic Types](https://github.com/c4arl0s/5GenericsAADSSwift#2-generic-types)
 3. [x] [3. Generic Functions](https://github.com/c4arl0s/5GenericsAADSSwift#3-generic-functions)
 
 # [6. The Build-In Swift collection Types](https://github.com/c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift#6-the-build-in-swift-collection-types)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124489046-2fa2a600-dd76-11eb-93bc-78b9dfcc964f.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124489137-4c3ede00-dd76-11eb-8f6e-c52c217fb06d.png" width="250"> |
 
 1. [x] [1. The Array](https://github.com/c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift#1-the-array)
 2. [x] [2. Accessing the Array](https://github.com/c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift#2-accessing-the-array)
@@ -54,6 +74,10 @@
 
 # 7. [Basic Sorting](https://github.com/c4arl0s/7BasicSortingAADSSwift#7-basic-sorting)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124489624-cf603400-dd76-11eb-9f89-18bc4622ab19.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124489793-fcace200-dd76-11eb-9ee1-993e20f3121b.png" width="250"> |
+
 1. [x] [1. Selection Sort](https://github.com/c4arl0s/7BasicSortingAADSSwift#-selection-sort)
     - [x] [Selection Sort Implementation](https://github.com/c4arl0s/7BasicSortingAADSSwift#--selection-sort-implementation)
     - [x] [Selection Sort Time Complexity](https://github.com/c4arl0s/7BasicSortingAADSSwift#--selection-sort-time-complexity)
@@ -72,6 +96,10 @@
     - [x] [Conclusions for B vs I sort algorithm](https://github.com/c4arl0s/7BasicSortingAADSSwift#--conclusions-for-b-vs-i-sort-algorithm)
 
 # [8. Advance Sorting](https://github.com/c4arl0s/8AdvanceSortingAADSSwift#8-advance-sorting)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124490473-bf951f80-dd77-11eb-99af-4e96997bb497.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124490546-d6d40d00-dd77-11eb-81b2-dfa79ba7e2a6.png" width="250"> |
  
 1. [x] [1. The merge sort](https://github.com/c4arl0s/8AdvanceSortingAADSSwift#1-the-merge-sort)
     - [x] [Implementation Merge Sort](https://github.com/c4arl0s/8AdvanceSortingAADSSwift#--implementation-merge-sort)
